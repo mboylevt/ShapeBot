@@ -1,7 +1,9 @@
-buildchatbot
+ShapeBot
 ============
 
 Python script to monitor Jenkins builds and notify a Skype chat.
+
+Forked from [buildbotchat](https://github.com/mirkonasato/buildchatbot) -- Credit to Mirko Nasato!
 
 Requirements
 ------------
